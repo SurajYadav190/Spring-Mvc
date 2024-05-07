@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="03SpringBootWebMvcModelEx"/>
+<aop-project name="08SpringBootWebMvcThyemelafFormEx"/>
+<aop-project name="04SpringBootWebMvcBasicFormEx"/>
+<aop-project name="09SpringBootWebMvcMySQLCrudEx"/>
+<aop-project name="06SpringBootWebMvcRedirectEx"/>
+<aop-project name="01SpringBootWebMvcFirstApp"/>
+<aop-project name="05SpringBootWebMvcParamsEx"/>
+<aop-project name="02SpringBootWebMvcRequestTypesEx"/>
+<aop-project name="07SpringBootWebMvcBasicThyeleafEx"/>
+</aop-reference-model>
